@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Lucas 👋
 
-<!--
-**inealucas/inealucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Turning coffee into code, slowly but surely.
 
-Here are some ideas to get you started:
+## 🌱 Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C programming
+- Logic and algorithms
+- How computers work under the hood
+
+## 🛠️ Tools
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
