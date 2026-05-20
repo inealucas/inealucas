@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Pixel art coding" width="320" src="https://media.tenor.com/rePDfDWO3XoAAAAd/pixel-art.gif"/>
 
 ### 🧑‍💻 About Me
 
@@ -14,6 +14,7 @@
 - 🌱 Currently learning **C**, **C++** and **Python**
 - 🔍 Exploring algorithms, logic and problem-solving
 - 💡 Passionate about understanding how things work under the hood
+- 🎮 Pixel art & retro games enthusiast
 - 🇧🇷 Based in Brazil
 
 <br clear="right"/>
