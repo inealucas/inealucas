@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science student, just getting started
+- 🎓 Studying IT Management (Gestão de T.I)
 - 🌱 Currently learning **C**, **C++** and **Python**
 - 🔍 Exploring algorithms, logic and problem-solving
 - 💡 Passionate about understanding how things work under the hood
