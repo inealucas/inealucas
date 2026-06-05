@@ -4,7 +4,7 @@
 <br>
 <div align="center">
 
-# Lucas
+# Lucas 🤠
 *IT Management student — obsessed with low-level systems,*
 *terminal environments, and how things really work.*
 
@@ -17,7 +17,7 @@
 > currently studying   IT Management
 > focused on          systems programming & the unix philosophy
 > working with        C, C++, Python, Bash, Linux
-> always exploring    how things work beneath the surface
+> always exploring    how things work beneath the surface 🏔️
 
 ---
 
