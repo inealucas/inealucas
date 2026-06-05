@@ -1,13 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://i.postimg.cc/ryHDjYJK/Chat-GPT-Image-22-de-mai-de-2026-01-39-21.png" />
+  <img width="100%" src="https://i.imgur.com/zNP209b.gif" />
 </div>
-
 <br>
-
 <div align="center">
 
 # Lucas
-
 *IT Management student — obsessed with low-level systems,*
 *terminal environments, and how things really work.*
 
@@ -17,12 +14,10 @@
 
 ### ⚡ about
 
-```
 > currently studying   IT Management
 > focused on          systems programming & the unix philosophy
 > working with        C, C++, Python, Bash, Linux
 > always exploring    how things work beneath the surface
-```
 
 ---
 
@@ -47,7 +42,6 @@
 ---
 
 ### 🌱 currently
-
 - 📖 deepening knowledge in **systems programming**
 - 🔩 getting comfortable with **memory management** and low-level abstractions
 - 🐧 living in the **terminal**
@@ -55,5 +49,4 @@
 ---
 
 ### 💭 philosophy
-
 > *"Simplicity is the ultimate sophistication."*
