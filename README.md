@@ -14,10 +14,10 @@
 
 ### ⚡ about
 
-> currently studying   IT Management
-> focused on          systems programming & the unix philosophy
-> working with        C, C++, Python, Bash, Linux
-> always exploring    how things work beneath the surface 🏔️
+> **currently studying**   IT Management  
+> **focused on**          systems programming & the unix philosophy  
+> **working with**        C, C++, Python, Bash, Linux  
+> **always exploring**    how things work beneath the surface 🏔️
 
 ---
 
@@ -42,11 +42,29 @@
 ---
 
 ### 🌱 currently
+
 - 📖 deepening knowledge in **systems programming**
 - 🔩 getting comfortable with **memory management** and low-level abstractions
 - 🐧 living in the **terminal**
+- 🎯 building projects that matter
+
+---
+
+### 📦 projects
+
+- **[c-lab](https://github.com/inealucas/c-lab)** — Systems programming exercises in C
+- More coming soon...
 
 ---
 
 ### 💭 philosophy
+
 > *"Simplicity is the ultimate sophistication."*
+
+---
+
+<div align="center">
+
+**Let's build something great! 🚀**
+
+</div>
