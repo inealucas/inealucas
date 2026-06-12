@@ -8,59 +8,38 @@
 
 # Lucas 🤠
 
-*IT Management student — obsessed with low-level systems,*  
-*terminal environments, and how things work.*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=IT+Management+student;obsessed+with+low-level+systems;living+in+the+terminal)](https://git.io/typing-svg)
 
 </div>
 
----
+<br>
 
-## ⚡ About
+```
+> whoami
+  student • systems programmer • unix enthusiast
 
-> **Studying**     IT Management  
-> **Focus**        Systems programming & Unix philosophy  
-> **Languages**    C, C++, Python, Bash  
-> **Tools**        Linux, Git, Vim  
+> focus
+  C / C++ / Python / Bash
+  Linux • Git • Vim
 
----
+> currently
+  deepening systems programming
+  getting comfortable with memory management
+  living in the terminal
+```
 
-## 🧰 Stack
+<br>
 
-**Languages**  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+**[c-lab](https://github.com/inealucas/c-lab)** — systems programming exercises in C
 
-**Environment**  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-%23019733?style=flat-square&logo=vim&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033?style=flat-square&logo=git&logoColor=white)
-
----
-
-## 🌱 Currently
-
-- 📖 Deepening knowledge in **systems programming**
-- 🔩 Getting comfortable with **memory management** and low-level abstractions
-- 🐧 Living in the **terminal**
-
----
-
-## 📦 Projects
-
-**[c-lab](https://github.com/inealucas/c-lab)** — Systems programming exercises in C
-
----
-
-## 💭 Philosophy
+<br>
 
 > *"Simplicity is the ultimate sophistication."*
 
----
+<br>
 
 <div align="center">
 
-**Let's build something great! 🚀**
+[![Instagram](https://img.shields.io/badge/@otherlusca-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/otherlusca/)
 
 </div>
